@@ -10,7 +10,6 @@ public class Department implements Serializable{
 	private String name;
 	
 	public Department() {
-		super();
 	}
 
 	public Department(Integer id, String name) {
